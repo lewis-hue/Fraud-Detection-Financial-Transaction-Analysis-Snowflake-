@@ -134,6 +134,9 @@ Key analysis sections:
 - Compares volume of purchases vs refunds/exchanges.
 - Spot trends and anomalies in transaction behaviors to support business decision-making.
 
+### **Dashboard using Tableau** 
+
+![Dashboard using Tableau](https://github.com/lewis-hue/Fraud-Detection-Financial-Transaction-Analysis-Snowflake-/blob/main/Dashboard.png)
 ---
 
 ## 📌 Summary of Key Takeaways
