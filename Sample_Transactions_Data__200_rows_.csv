@@ -1,0 +1,201 @@
+transaction_id,customer_id,transaction_date,transaction_amount,merchant_id,transaction_type,location,is_fraud
+770487,1114,2023-05-08,34.76,18,Purchase,Kristintown,True
+246316,1754,2023-05-16,111.47,48,Purchase,Lauraton,False
+133326,1030,2023-11-08,102.76,15,Purchase,Bakermouth,True
+850800,1665,2022-04-16,704.31,27,Purchase,Lake Kimberly,False
+717889,1284,2021-01-28,811.34,1,Purchase,Rosefurt,False
+456778,1284,2023-10-23,163.92,49,Refund,West Jill,True
+197251,1389,2020-08-24,105.75,23,Refund,Christineburgh,True
+865179,1470,2024-01-11,540.87,25,Purchase,New Barbaraland,False
+969693,1643,2020-05-01,622.33,24,Purchase,New Donaldburgh,True
+148050,1677,2023-06-04,235.62,19,Purchase,Micheleland,True
+205907,1389,2021-11-21,285.19,41,Refund,East James,True
+488162,1363,2022-12-28,217.41,18,Purchase,South Jadeport,True
+660086,1746,2022-04-17,252.36,30,Refund,South Zachary,False
+771088,1704,2021-10-06,561.38,44,Refund,East Stacey,True
+340174,1841,2023-08-19,41.78,21,Refund,Millsfort,False
+169403,1216,2022-11-09,914.0,37,Refund,New Timothy,True
+787277,1511,2021-08-04,401.68,42,Refund,East Davidville,True
+377746,1142,2022-04-02,254.16,36,Refund,Lopezbury,False
+711878,1408,2022-09-12,368.38,9,Refund,Melissamouth,True
+892495,1048,2020-03-19,862.49,10,Purchase,East Melissaborough,False
+725380,1065,2024-02-26,390.92,39,Refund,New Erikchester,False
+680099,1881,2022-04-05,943.01,44,Purchase,Coxland,False
+905934,1656,2024-02-02,346.77,19,Refund,West Austinport,True
+575763,1003,2023-10-09,954.28,47,Refund,Lake Annahaven,True
+632342,1934,2024-09-09,115.35,41,Refund,South Melissa,True
+260263,1382,2024-06-13,764.89,35,Purchase,South Carolyn,False
+612340,1019,2023-05-10,120.75,24,Refund,Matthewton,True
+160738,1246,2020-03-08,879.23,6,Purchase,Wongburgh,False
+955662,1070,2024-07-07,978.2,35,Purchase,New Andreatown,True
+791798,1486,2022-09-30,947.38,11,Refund,Shanestad,False
+322086,1951,2021-07-01,543.9,47,Purchase,Clarkburgh,False
+518373,1687,2025-03-13,653.38,29,Refund,West Jonathonmouth,True
+359947,1230,2023-07-09,73.39,2,Purchase,Thomasmouth,True
+107540,1072,2023-07-20,710.76,4,Purchase,Forbesbury,True
+132938,1880,2024-10-31,337.12,33,Purchase,North Carolyn,False
+801474,1497,2022-04-12,222.09,9,Refund,West Anna,True
+922733,1484,2025-03-17,809.42,13,Purchase,Port Michaelfurt,True
+790993,1441,2023-04-19,360.75,27,Refund,Johnfurt,True
+806073,1669,2021-02-11,984.32,7,Purchase,South Carolmouth,False
+863587,1347,2020-11-11,802.59,7,Purchase,Garciafurt,True
+299448,1549,2024-02-20,454.13,28,Purchase,Jessicaland,False
+585100,1255,2023-02-11,875.74,5,Refund,Hopkinschester,True
+153045,1667,2020-06-09,999.29,1,Purchase,Danielville,True
+274389,1416,2024-07-19,490.78,14,Refund,Rothberg,True
+272634,1388,2020-06-12,12.13,25,Refund,Bernardborough,False
+399105,1433,2022-12-20,699.63,47,Refund,West Kayla,True
+299122,1303,2021-01-08,225.52,4,Purchase,Leblancbury,False
+159942,1051,2023-01-16,588.34,33,Purchase,Shelbyborough,True
+632496,1082,2023-03-07,852.83,5,Purchase,Katrinaside,True
+523389,1122,2024-06-05,942.18,37,Purchase,Lake Jaymouth,True
+749468,1083,2022-04-25,425.03,38,Refund,Jessicaton,False
+314181,1685,2025-03-09,719.03,16,Refund,Richardsland,False
+237235,1687,2021-08-25,649.05,30,Refund,West Heatherburgh,True
+109767,1469,2022-11-05,624.95,37,Purchase,Fergusonfort,True
+663750,1218,2021-02-20,510.83,9,Refund,Jenniferview,True
+356150,1378,2023-12-04,292.14,29,Refund,Port Johnhaven,True
+800305,1836,2020-09-10,559.06,43,Purchase,West Johnview,True
+377312,1118,2022-07-18,890.82,48,Purchase,Elizabethside,False
+395442,1619,2022-03-01,218.52,22,Purchase,Lake Frederickshire,False
+629959,1500,2022-04-02,258.61,4,Purchase,Brandimouth,False
+969634,1283,2022-04-19,53.65,22,Purchase,Johnburgh,False
+269430,1759,2020-03-20,447.42,46,Refund,West Jasmine,True
+217308,1077,2022-03-12,945.6,45,Purchase,East Caleb,True
+975136,1378,2024-06-07,586.68,10,Refund,Haynesmouth,True
+143860,1315,2022-11-09,371.01,3,Refund,East Elizabethchester,True
+815198,1255,2024-03-14,670.26,23,Refund,East Nathaniel,True
+348237,1885,2023-10-21,170.88,12,Refund,North Hollyville,True
+288073,1754,2020-11-06,925.24,27,Purchase,East Jeffrey,False
+266931,1806,2020-04-11,704.27,25,Purchase,Tonyaville,False
+333238,1204,2024-03-19,818.42,30,Refund,Christiantown,False
+960394,1814,2023-02-16,872.61,15,Purchase,Debrachester,True
+517821,1336,2023-03-03,285.82,5,Refund,North Theresahaven,False
+772642,1521,2020-07-10,405.68,35,Refund,New Kimberlyfort,True
+220944,1898,2025-02-14,970.7,12,Refund,Nancyburgh,True
+213668,1610,2021-07-19,440.22,47,Refund,Browntown,False
+735656,1523,2024-12-29,124.49,37,Purchase,Derekhaven,False
+146542,1725,2022-08-22,441.7,34,Purchase,Dianeburgh,False
+552248,1071,2020-03-28,949.39,22,Refund,Mckenziebury,True
+854717,1921,2024-11-18,307.32,20,Refund,Kellyborough,False
+521947,1713,2023-04-24,302.7,9,Purchase,Perryport,False
+797229,1962,2024-05-03,385.35,48,Purchase,Davidville,False
+525800,1561,2022-03-12,835.39,20,Refund,West Amy,True
+550770,1804,2024-08-15,584.18,42,Refund,North Katherine,False
+563246,1452,2021-01-13,678.87,33,Refund,Lake Edwardmouth,True
+790855,1086,2021-06-14,290.95,43,Refund,Jeanville,True
+958179,1974,2025-03-09,753.63,44,Refund,Cisnerosland,True
+945742,1203,2021-12-19,155.88,3,Purchase,Walshtown,False
+740967,1870,2024-12-09,770.8,30,Refund,Johnsonville,True
+853240,1713,2025-02-08,390.14,26,Purchase,Johnstonland,True
+787926,1704,2020-08-10,15.49,49,Purchase,Hicksside,False
+329471,1180,2020-01-26,806.07,45,Refund,New Sean,True
+684482,1255,2025-03-22,918.3,8,Refund,West Sherryshire,True
+940346,1475,2023-06-28,670.9,36,Refund,South James,False
+742412,1834,2022-10-15,722.08,33,Refund,Nathanielmouth,False
+266889,1761,2022-07-21,862.88,29,Refund,South Karenchester,True
+980660,1652,2024-01-21,284.54,50,Refund,Duncanview,True
+387936,1450,2021-09-18,86.71,19,Purchase,East Gregory,False
+452161,1327,2020-01-03,894.1,6,Purchase,Brandonfort,True
+342495,1392,2021-08-18,697.01,46,Purchase,Lake Jasonmouth,True
+535020,1417,2024-04-08,337.57,30,Refund,Millerberg,True
+316881,1852,2023-03-26,425.94,50,Purchase,Harperburgh,False
+600149,1006,2024-09-14,943.31,20,Refund,Lake Justin,False
+664365,1765,2022-07-11,737.29,39,Purchase,Jessicabury,False
+330080,1279,2024-12-21,441.48,2,Refund,Gonzalezmouth,False
+801364,1695,2023-03-12,800.16,47,Purchase,Craigside,False
+233827,1637,2022-05-09,538.78,26,Purchase,Krystalberg,True
+773971,1438,2020-09-18,144.34,30,Purchase,Port Shannonstad,True
+372793,1388,2022-07-30,334.08,30,Refund,Juanfort,False
+898207,1900,2022-09-17,385.33,49,Refund,Reynoldsfurt,False
+975467,1083,2020-10-13,475.6,48,Purchase,Allisonberg,False
+335113,1665,2021-07-05,77.93,42,Purchase,New Michael,True
+359295,1204,2020-12-06,840.84,40,Purchase,North Wayne,True
+232352,1484,2024-07-13,672.76,37,Purchase,Lake Travisburgh,False
+833442,1262,2021-01-10,769.23,11,Purchase,Port Justinmouth,True
+426147,1110,2021-10-24,582.9,20,Refund,Rodgersbury,False
+849747,1203,2025-04-02,85.24,45,Purchase,Laurenberg,True
+831059,1791,2022-10-30,308.57,44,Purchase,East Jenniferborough,True
+464069,1545,2023-05-07,434.09,24,Purchase,Port Rileyton,False
+113266,1869,2024-10-12,425.86,32,Purchase,Chapmanmouth,False
+479781,1650,2023-09-01,892.66,30,Purchase,New Jacob,False
+284692,1751,2023-04-26,526.53,42,Refund,Wellsshire,False
+587455,1446,2021-03-17,827.48,38,Refund,South Moniquemouth,False
+993085,1251,2023-08-26,832.42,6,Refund,New Staceyton,False
+355709,1768,2020-07-27,470.06,40,Refund,Port Lisaborough,False
+130094,1506,2022-07-04,852.44,12,Refund,Port William,True
+472060,1816,2021-08-29,265.77,18,Refund,Hunthaven,True
+641722,1970,2020-06-22,199.15,16,Refund,East Katrina,False
+682144,1776,2023-08-30,247.92,31,Refund,East Gina,False
+931450,1017,2025-03-22,102.12,15,Refund,Lake Deborahfurt,True
+421080,1679,2021-06-30,585.74,31,Refund,West Jennifer,False
+882169,1563,2023-09-11,337.48,45,Refund,West Pamelaburgh,False
+421517,1257,2020-09-08,238.23,47,Purchase,Derekstad,False
+225362,1760,2024-01-07,540.51,49,Purchase,Harrishaven,True
+326895,1756,2020-03-10,489.36,47,Refund,Dunnport,True
+973074,1198,2023-04-25,303.28,24,Purchase,West Melanie,False
+114835,1725,2024-09-30,538.79,18,Purchase,Port Johnmouth,True
+680238,1299,2023-08-02,700.44,9,Refund,Adriennetown,True
+112861,1587,2024-11-20,291.5,31,Refund,East Ryan,False
+293319,1988,2020-05-26,60.86,31,Purchase,South Melissafurt,True
+520172,1503,2024-11-09,83.34,41,Purchase,West Danielmouth,True
+256445,1830,2024-05-01,567.21,20,Purchase,North Heather,True
+224205,1571,2020-12-20,766.8,39,Purchase,Lake Ebony,False
+572398,1930,2024-01-05,448.29,38,Refund,Mathewshire,False
+696251,1635,2023-09-12,69.63,48,Purchase,Roymouth,True
+755900,1216,2023-08-01,272.0,6,Purchase,Port Kathryn,True
+282256,1565,2020-05-21,84.31,1,Refund,Longview,False
+822858,1608,2020-05-31,475.21,3,Purchase,East Stacy,False
+841296,1289,2022-05-23,705.96,30,Purchase,Howardfurt,True
+377405,1806,2024-04-29,793.34,38,Purchase,Byrdland,False
+220351,1557,2020-02-18,232.56,10,Refund,Jessehaven,True
+174878,1061,2024-12-11,174.26,20,Refund,Lake Shannonview,False
+230394,1479,2025-04-10,691.79,45,Refund,West David,False
+624783,1552,2020-05-13,498.86,6,Purchase,North Jessicastad,False
+870214,1330,2023-06-19,607.68,2,Purchase,Hannahburgh,True
+807053,1856,2020-09-09,861.91,38,Purchase,Ambermouth,False
+704238,1041,2022-05-18,765.48,12,Refund,North Blakeland,False
+391668,1185,2024-09-12,996.98,28,Refund,Lake Chadland,True
+592841,1356,2024-11-05,414.26,21,Purchase,Butlerland,True
+445824,1421,2023-01-09,696.74,19,Refund,Pageberg,True
+576919,1090,2022-07-14,321.37,21,Purchase,Wadeport,False
+639593,1844,2023-01-18,988.24,43,Refund,South Anthonyshire,False
+156837,1192,2024-11-27,523.25,40,Refund,Angelaton,False
+896907,1052,2024-09-20,211.52,36,Purchase,Port Joshuaton,False
+559398,1901,2022-10-03,701.27,8,Purchase,Rebeccamouth,True
+844261,1162,2023-08-30,317.64,1,Refund,Port Daniel,True
+335615,1861,2024-11-04,913.8,30,Purchase,Lake Justin,True
+622584,1955,2024-12-03,719.44,33,Refund,East Elijah,False
+975271,1494,2020-07-12,980.44,16,Refund,Owensmouth,True
+502219,1195,2024-11-07,922.65,33,Purchase,West Marcustown,True
+389666,1791,2021-05-06,792.11,27,Refund,Markmouth,False
+960408,1002,2024-06-16,290.01,20,Refund,Perrymouth,True
+568238,1551,2021-06-04,489.5,22,Refund,New Bradmouth,False
+437408,1890,2021-07-29,196.77,45,Purchase,North Jeffrey,False
+344907,1876,2021-09-30,777.79,3,Refund,Houstonbury,False
+839485,1935,2024-10-12,813.29,25,Purchase,North Davidborough,False
+138817,1129,2020-12-31,507.27,38,Refund,Rodriguezmouth,True
+986088,1450,2021-07-17,108.71,30,Purchase,South Mariaburgh,True
+529893,1891,2022-05-20,658.23,10,Purchase,New Brandonchester,False
+919488,1992,2023-05-14,272.37,40,Refund,Brittanyshire,True
+993140,1336,2024-11-09,853.82,35,Refund,Smithfort,False
+757246,1735,2021-04-05,888.56,32,Purchase,Derekchester,True
+346174,1646,2023-06-04,687.56,19,Purchase,East Bethanybury,True
+555052,1100,2023-03-13,762.77,46,Purchase,Lambfort,False
+274446,1710,2022-05-20,306.47,2,Purchase,Lake Jaclyn,False
+934816,1057,2024-06-05,300.43,24,Refund,Gregoryhaven,True
+356059,1543,2020-07-05,417.93,44,Purchase,Royside,True
+283573,1080,2025-01-31,613.4,25,Purchase,North Henrytown,False
+711484,1146,2020-12-31,239.87,41,Refund,Joneschester,False
+367729,1682,2020-04-15,19.3,30,Refund,Port Lawrence,True
+177449,1452,2021-08-28,945.78,38,Refund,Lake Travis,False
+823846,1256,2024-01-03,462.27,20,Purchase,Walkerport,False
+994787,1494,2022-08-20,115.59,25,Refund,West Manuel,False
+833247,1302,2021-11-17,31.72,43,Refund,Kentton,False
+108491,1579,2023-05-13,866.42,50,Purchase,Port Kylie,False
+973294,1925,2021-12-02,903.91,50,Purchase,Andrewborough,False
+329642,1651,2024-05-06,198.23,17,Purchase,Lake Michaelmouth,True
+757937,1661,2022-11-14,49.03,29,Purchase,New Brian,False
+867934,1134,2022-12-30,99.23,19,Refund,South Dale,False
+284171,1205,2021-03-06,140.84,35,Refund,Lewisbury,False
+970813,1168,2022-03-26,264.4,31,Refund,Turnerfurt,False
